@@ -9,3 +9,6 @@ Uso:
 
 Es posible agregar más nombres a la lista después de hacer clic en "Sortear amigo"
 
+Requisitos: 
+
+- Navegador web
